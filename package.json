@@ -1,0 +1,27 @@
+{
+  "name": "@quoctruongpt/rn-my-template",
+  "version": "1.0.0",
+  "description": "Template những thứ cần thiết khi khởi tạo ứng dụng React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quoctruongpt/rn-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "templage"
+  ],
+  "author": "Quoc truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quoctruongpt/rn-template/issues"
+  },
+  "homepage": "https://github.com/quoctruongpt/rn-template#readme",
+  "files": [
+    "template",
+    "template.config.js"
+  ]
+}
