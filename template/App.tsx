@@ -13,6 +13,7 @@ import React from 'react';
 import {Provider} from 'react-redux';
 import {PersistGate} from 'redux-persist/integration/react';
 import '@/configs/themes/unitstyles';
+import '@/configs/localization';
 
 const queryClient = new QueryClient();
 

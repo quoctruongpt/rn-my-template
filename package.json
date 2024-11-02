@@ -1,6 +1,6 @@
 {
   "name": "@quoctruongpt/rn-my-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template những thứ cần thiết khi khởi tạo ứng dụng React Native",
   "main": "index.js",
   "scripts": {
